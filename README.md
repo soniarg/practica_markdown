@@ -6,6 +6,10 @@
 **Propietària:** *Sonia Roig Marti*  
 `Correu: beautystore@gmail.com`  
 
+La belleza se describe comúnmente como una cualidad de los entes que hace que estas sean placenteros de percibir. Tales entes pueden incluir paisajes, atardeceres o amaneceres, cielos nocturnos, personas, animales, plantas, obras de arte, etc. Belleza es una noción abstracta ligada a numerosos aspectos de la existencia humana. La belleza se estudia dentro de la disciplina filosófica de la estética, además de otras disciplinas como la historia, la sociología y la psicología social.  
+
+> La belleza no hace feliz al que la posee, sino a quien puede amarla. (Hermann Hesse)
+
 Els nostres productes en format JSON:
 ```json
 {
